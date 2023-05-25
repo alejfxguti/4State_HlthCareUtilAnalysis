@@ -1,4 +1,4 @@
-# 4State_HealthCare_Utilization_Analysis
+# CountyHealthRankings-SDOH-Analysis
 
 As a multicultural, first-generation American and public health researcher, I have always been passionate about understanding and addressing health inequities. This project focuses on analyzing healthcare utilization patterns and identifying areas for improvement, with a particular focus on racial and health equity indicators. 
 
